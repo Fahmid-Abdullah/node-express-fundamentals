@@ -1,0 +1,1 @@
+This repository covers the foundational building blocks of node and express. By completing all the lessons, you'll gain the essential tools and knowledge needed to create a working backend using Node .js and Express.
